@@ -1,0 +1,50 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  color: brown;
+}
+
+.one {
+  position: absolute;
+  top: 0px;
+}
+
+.two {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.three {
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  left: 50%;
+  bottom: 50%;
+}
+
+.four {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+
+.five {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+p{
+  text-align: center;
+  font-size: large;
+}
+@media screen and (min-width: 100px) {
+  .move_div {
+    width: 50%;
+    max-width: 1000px;
+  }
+}
+

@@ -1,0 +1,5 @@
+This animation isnt responsive
+this animation works 
+the size of for ths animation to work
+--- from min height of 490 px 
+---- from  min width  of 600px to max width 2000px
